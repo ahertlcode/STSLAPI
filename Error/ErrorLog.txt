@@ -1,0 +1,65 @@
+2016-04-04 14:14 08 : Database Error No:  - Error Information: 
+2016-04-04 14:06 11 : Database Error No:  - Error Information: 
+2016-04-04 14:08 11 : Database Error No:  - Error Information: 
+2016-04-04 14:05 13 : Database Error No:  - Error Information: 
+2016-04-04 14:06 13 : Database Error No:  - Error Information: 
+2016-04-04 14:06 13 : Database Error No:  - Error Information: 
+2016-04-04 14:06 13 : Database Error No:  - Error Information: 
+2016-04-04 14:07 13 : Database Error No:  - Error Information: 
+2016-04-06 14:52 40 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1
+2016-04-06 14:08 42 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1
+2016-04-06 14:23 43 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1
+2016-04-06 14:06 45 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1
+2016-04-06 14:31 46 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1
+2016-04-06 14:16 47 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1
+2016-04-06 14:45 47 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1
+2016-04-07 10:10 01 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`pricelist`.`QDate` FROM     `pricelist`WHERE    ( pricelist.QDate='2015-11-12' ' at line 1
+2016-04-07 10:16 01 : Database Error No: 1064 - Error Information: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`pricelist`.`QDate` FROM     `pricelist`WHERE    ( pricelist.QDate='2015-11-12' ' at line 1
+2016-04-07 10:53 56 : Database Error No: 1054 - Error Information: Unknown column 'RPrice.PHigh' in 'field list'
+2016-05-04 21:49 11 : Database Error No:  - Error Information: 
+2016-05-04 21:51 11 : Database Error No:  - Error Information: 
+2016-05-04 21:33 12 : Database Error No:  - Error Information: 
+2016-05-04 21:35 12 : Database Error No:  - Error Information: 
+2016-05-04 21:52 12 : Database Error No:  - Error Information: 
+2016-05-04 21:54 12 : Database Error No:  - Error Information: 
+2016-05-04 21:01 13 : Database Error No:  - Error Information: 
+2016-05-04 21:03 13 : Database Error No:  - Error Information: 
+2016-05-04 21:53 15 : Database Error No:  - Error Information: 
+2016-05-04 21:55 15 : Database Error No:  - Error Information: 
+2016-05-04 21:33 16 : Database Error No:  - Error Information: 
+2016-05-04 21:35 16 : Database Error No:  - Error Information: 
+2016-05-04 21:39 16 : Database Error No:  - Error Information: 
+2016-05-04 21:41 16 : Database Error No:  - Error Information: 
+2016-05-04 21:11 17 : Database Error No:  - Error Information: 
+2016-05-04 21:13 17 : Database Error No:  - Error Information: 
+2016-05-04 21:32 19 : Database Error No:  - Error Information: 
+2016-05-04 21:34 19 : Database Error No:  - Error Information: 
+2016-05-04 21:20 21 : Database Error No:  - Error Information: 
+2016-05-04 21:22 21 : Database Error No:  - Error Information: 
+2016-05-14 18:00 06 : Database Error No:  - Error Information: 
+2016-05-14 18:00 06 : Database Error No:  - Error Information: 
+2016-05-14 18:03 06 : Database Error No:  - Error Information: 
+2016-05-14 18:03 06 : Database Error No:  - Error Information: 
+2016-05-14 18:03 06 : Database Error No:  - Error Information: 
+2016-05-14 18:03 06 : Database Error No:  - Error Information: 
+2016-05-14 18:03 06 : Database Error No:  - Error Information: 
+2016-05-14 18:05 06 : Database Error No:  - Error Information: 
+2016-05-14 18:28 06 : Database Error No:  - Error Information: 
+2016-05-14 18:30 06 : Database Error No:  - Error Information: 
+2016-05-16 18:23 06 : Database Error No:  - Error Information: 
+2016-05-16 18:25 06 : Database Error No:  - Error Information: 
+2016-05-16 18:44 06 : Database Error No:  - Error Information: 
+2016-05-16 18:46 06 : Database Error No:  - Error Information: 
+2016-05-16 18:49 06 : Database Error No:  - Error Information: 
+2016-05-16 18:51 06 : Database Error No:  - Error Information: 
+2016-05-16 18:05 07 : Database Error No:  - Error Information: 
+2016-05-16 18:07 07 : Database Error No:  - Error Information: 
+2016-05-30 19:08 48 : Database Error No:  - Error Information: 
+2016-05-30 19:10 48 : Database Error No:  - Error Information: 
+2016-11-01 15:36 33 : Database Error No:  - Error Information: 
+2016-11-01 15:36 33 : Database Error No:  - Error Information: 
+2016-11-01 15:43 33 : Database Error No:  - Error Information: 
+2016-11-01 15:43 33 : Database Error No:  - Error Information: 
+2016-11-01 15:20 41 : Database Error No:  - Error Information: 
+2016-11-26 00:00 58 : Database Error No:  - Error Information: 
+2016-11-26 00:00 58 : Database Error No:  - Error Information: 
